@@ -62,24 +62,10 @@ FIGURE -03
 
 
 ## PROGRAM 
- 
- 
-
-
-
-
-
-
-
-
-
- 
- 
- 
-
-
+ ![pro ( program)](https://github.com/vasanthkumarch/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/149937471/ec8b8094-7580-4dba-8d64-6fd3812724a3)
 
 ## OUTPUT OF SIMULATION :
+![Screenshot 2024-02-19 143459](https://github.com/vasanthkumarch/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/149937471/a45beb64-8da4-404f-8a26-0fd787dcfb1e)
+![image](https://github.com/vasanthkumarch/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/149937471/15f37c58-1238-442f-bc69-a71849c86bcc)
 
-[My image](username.github.com/repository/img/image.jpg)
-
+RESULT:thus the simulation output on interfacing digital input sensor with arduino has been completed in tinkercad.
