@@ -53,6 +53,7 @@ FIGURE-02
 
 
 ![image](https://user-images.githubusercontent.com/36288975/163530437-87a0afbd-b3c9-44ad-b907-5de63486fb9d.png)
+![image](https://github.com/Sajith-28/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/149937471/ee77c859-ab1f-4a82-bd74-094356d2e20b)
 
 
 
@@ -62,19 +63,7 @@ FIGURE -03
 
 
 ## PROGRAM 
- 
- 
-
-
-
-
-
-
-
-
-
- 
- 
+ ![pro ( program)](https://github.com/Sajith-28/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/149937471/2f987431-eebe-44e7-b9a3-9b274b89e952)
  
 
 
